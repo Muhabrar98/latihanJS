@@ -62,7 +62,7 @@ let angkaa2 = 2;
 let hasilmodulo = (angkaa1%angkaa2)
 console.log("Hasil modulo "+angkaa1 +" dan "+angkaa2 +" adalah", hasilmodulo);
 
-//Nomor 10
+// Nomor 10
 let kata1 = "Kode";
 let kata2 = "Latihan";
 console.log(kata1+kata2);
